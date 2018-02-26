@@ -10,7 +10,7 @@ public class Basic {
     @SerializedName("city")
     public String cityName;
 
-    @SerializedName("weatherId")
+    @SerializedName("id")
     public String weatherId;
 
     public Update update;
